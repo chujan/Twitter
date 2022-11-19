@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1018704568903-ba7ijnnp67pgfasvl8ch8j0r4qcvkb9o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1018704568903-ba7ijnnp67pgfasvl8ch8j0r4qcvkb9o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlNN7fzrZ5LZjm6_l5mD9_7HweD0h6iys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1018704568903</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Jennifer-Chukuemeka.Twitter</string>
+	<key>PROJECT_ID</key>
+	<string>twitter-41b16</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitter-41b16.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1018704568903:ios:460aa4a4b0aa76c1294762</string>
+</dict>
+</plist>
